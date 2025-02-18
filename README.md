@@ -1,5 +1,7 @@
 # C++ Virtual File System
 
+![How it looks like](main.png)
+
 ## Overview
 **C++ Virtual File System** is a C++ project that implements **a virtual file system** based on [i-nodes](https://en.wikipedia.org/wiki/Inode). The system simulates common file and directory operations in an environment that closely mimics real-world file systems. It is designed with modularity and extensibility in mind, making it easy to manage files, directories, and additional advanced operations.
 
